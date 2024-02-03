@@ -2,9 +2,10 @@ Hi there 👋 my name is Mikhail
 ===============================
 
 Python developer
-----------------
 <a href="https://t.me/mikhailcode">
 <img src="https://img.shields.io/badge/telegram-blue?style=for-the- badge&logo=telegram&logoColor=white" alt="telegram"/> </a>
+----------------
+
 
 I got into python back in high school in 2017, wrote a lot of simple scripts, solved tasks, watched a lot of different videos, learned to do googling. But I decided to become a professional developer only in 2022. I study backend and data analysis in python. I'm passionate about my profession, I love coding and devote a huge amount of time to it, but there is no limit to perfection!
 
